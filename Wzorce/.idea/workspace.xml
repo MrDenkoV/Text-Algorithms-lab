@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f285d2c0-6f97-4706-8d47-e77ddc24e69a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c2221770-a0cd-4b48-b13d-8281f5f8f0ed" />
+  <component name="ProjectId" id="1YOD9Znj5KF3LPHUJ2ljK3kcFLH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f285d2c0-6f97-4706-8d47-e77ddc24e69a" name="Default Changelist" comment="" />
+      <created>1582804596700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582804596700</updated>
+      <workItem from="1582804598350" duration="6067000" />
+      <workItem from="1582813962800" duration="1688000" />
+      <workItem from="1583236431561" duration="52000" />
+      <workItem from="1583619821427" duration="24501000" />
+      <workItem from="1583753504168" duration="261000" />
+      <workItem from="1583833544967" duration="45000" />
+      <workItem from="1583834978665" duration="22000" />
+      <workItem from="1584558067679" duration="7178000" />
+      <workItem from="1584738418145" duration="645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584739048470">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1584739048470" />
+    <state x="686" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582804761106">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="686" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1582804761106" />
+    <state x="747" y="266" key="FileChooserDialogImpl" timestamp="1583236467121">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="747" y="266" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1583236467121" />
+    <state x="449" y="157" key="SettingsEditor" timestamp="1584739044864">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="449" y="157" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1584739044864" />
+    <state x="626" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1584738420343">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="626" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1584738420343" />
+    <state x="623" y="230" key="search.everywhere.popup" timestamp="1582804601907">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="623" y="230" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1582804601907" />
+  </component>
+</project>
